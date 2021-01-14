@@ -32,23 +32,3 @@ Along with a team of 4 other students, I developed Python scripts to query the B
 **Student Worker** | November 2017 - Present
 
 Since my Freshman year at UC Berkeley, I've worked with the athletic department to set up and break down home sporting events, including basketball, volleyball, and gymnastics. I've done many things from setting up basketball hoops, fetching balls during a volleyball match, keeping time during a gymnastics meet, and raising nets at football games.
-
-## Relevant Classes
-Throughout my time at Berkeley I've taken classes across a bunch of different departments. These include: Anthropology, Cognitive Science, Computer Science, Education, German, History, Japanese, Letters & Science, Linguistics, Math, Music, Nutritional Science & Toxicology, Philosophy, Psychology, Public Policy, Statistics, and Undergraduate Business Administration. Below I've listed some of the more relevant courses I've taken.
-
-### Upper Division
-- CS C100 (Data 100): Principles and Techniques of Data Science
-- Data C102: Data, Inference, Decisions
-- Data 144: Data Mining & Analytics
-- STAT 140: Probability for Data Science
-- COGSCI 131: Computational Models of Cognition
-- PSYCH 101: Research & Data Analysis in Psychology
-- (in progress Spring 2021) CS194: Special Topics - Data Engineering
-
-### Lower Division
-- CS C8 (Data 8): Foundations of Data Science
-- CS61A: Structure and Interpretation of Computer Programs
-- CS61B: Data Structures
-- CS70: Discrete Math & Probability
-- COGSCI 88: Data Science and the Mind
-- MATH 54: Linear Algebra & Differential Equations
