@@ -13,6 +13,7 @@ Throughout my time at Berkeley I've taken classes across a bunch of different de
 - STAT 140: Probability for Data Science
 - COGSCI 131: Computational Models of Cognition
 - PSYCH 101: Research & Data Analysis in Psychology
+- HIST C184D: Ethics of Data Science
 - (in progress Spring 2021) CS194: Special Topics - Data Engineering
 
 ### Lower Division
